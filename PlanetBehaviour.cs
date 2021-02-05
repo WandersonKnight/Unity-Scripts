@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This script gives an auto one direction rotate planet like behaviour to the 3D sphere that it's atached. 
+//It also makes it draggable and adds inertia to it if it's spinned with mouse/touch.
+
 public class PlanetBehaviour : MonoBehaviour
 {
     //Drag speed
