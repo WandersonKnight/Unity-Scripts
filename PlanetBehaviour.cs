@@ -60,8 +60,6 @@ public class PlanetBehaviour : MonoBehaviour
 
             }
 
-
-
         }
 
         //When playing on Android
