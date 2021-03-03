@@ -2,7 +2,7 @@
 
 Updated 02/28/2021 - Unity 2019.4.14f1
 
--PlanetBehaviour-
+### PlanetBehaviour
 
 * Now it won't confuse the Planet object collider with other 3D colliders.
 * Improved inertia
